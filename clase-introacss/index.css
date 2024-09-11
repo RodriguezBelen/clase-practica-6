@@ -1,0 +1,60 @@
+/*selector universal*/
+
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*Selector de tipo*/ 
+h1 {
+    color: blueviolet;
+    background-color: bisque;
+}
+p {
+    color: rgb(59, 62, 228);
+}
+
+div {
+    color: rgb(224, 149, 36);
+}
+
+/*Selector de clase*/
+
+.menu {
+    color: darkmagenta;
+    background-color: lightblue;
+}
+.redes {
+    color: darkred;
+    background-color: rgb(24, 32, 24);
+}
+
+/*selector id*/
+
+#link1 {
+    color: aliceblue;
+}
+
+#link2 {
+    color: darkorange;
+}
+
+#link3 {
+    color: darkgray;
+}
+
+/*---------------Cascada y especificidad------------*/
+
+#parrafo{
+    color: red;
+}
+
+/*.texto{
+    color: green;
+}
+p{
+    color: yellow;
+}    todo esto no va a aparecer por especificidad el "!important no lo deberiamos usar*/

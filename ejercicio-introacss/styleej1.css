@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(2, 2, 112);
+    text-align: center;
+
+
+}
+
+.destacado {
+    color: red;
+    font-size: 20px;
+}
+
+/*---colocamos id----*/
+
+#informacion {
+    color: green;
+    text-decoration: underline;
+}
+
+.parrafo{
+    color: darkorchid;
+    font-style: italic;
+    margin: 20px
+}
+
+.final{
+    color: rgb(228, 99, 121);
+    font-weight: bold;
+    margin: 10px;
+    text-align: right;
+}
