@@ -1,0 +1,41 @@
+
+h1{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.lista-colores{
+    background-color: rgb(158, 155, 155);
+    margin: 10px;
+    padding: 40px;
+}
+
+#azul {
+    color: blue;
+
+}
+
+#rojo {
+    color: red;
+}
+
+#verde {
+    color: green;
+}
+
+.button1{
+    color: brown;
+    background-color: yellow;
+    
+}
+
+.button2{
+    color: black;
+    background-color: lightblue;
+   
+}
+
+#final {
+    text-align: center;
+    background-color: rgb(240, 122, 142);
+    font-family: fantasy;
+}
